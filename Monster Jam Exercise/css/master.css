@@ -1,0 +1,109 @@
+header{
+  height: 100px;
+  width: 100%;
+}
+#topHeader{
+  height: 70px;
+  width: 100%;
+}
+#bottomHeader{
+  height: 30px;
+  width: 100%;
+  margin-top: -16px;
+}
+#logo{
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  padding: 4px;
+  top: 4px;
+  background-image: url("../images/mj logo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+nav{
+  width: 30%;
+  height: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  float: left;
+  margin-left: 10px;
+  margin-right: 16px;
+  margin-top: 4px;
+}
+nav ul li a{
+  text-decoration: none;
+  padding-left: 30px;
+}
+a{
+  font-family: Calibri;
+  font-weight: bold;
+}
+a:link{
+  color: black;
+}
+a:hover{
+  color: white;
+}
+a:visited{
+  color: blue;
+}
+main{
+width: 100%;
+height: 1400px;
+margin: 3px;
+margin-left: auto;
+margin-right: auto;
+}
+section{
+  width: 67%;
+  height: 960px;
+  padding: 4px;
+  float: left;
+  left: 6px;
+}
+#leftMain{
+width: 100%;
+height: auto;
+margin-bottom: 5px;
+}
+#rightMain{
+  width: 31%;
+  height: auto;
+  padding: 4px;
+  float: right;
+  margin: 4px;
+  margin-left: -5px;
+}
+#leftMain #right{
+  width: 39%;
+  height: auto;
+  padding: 4px;
+  margin: 2px;
+  margin-top: 3px;
+}
+#leftMain #left{
+  width: 39%;
+  height: auto;
+  padding: 4px;
+  float: left;
+  margin: 2px;
+}
+.aside{
+  width: 97%;
+  min-height: 180px;
+  margin: 4px;
+  border-radius: 10px;
+}
+footer{
+  width: 100%;
+  height: 90px;
+  background-color: black;
+}

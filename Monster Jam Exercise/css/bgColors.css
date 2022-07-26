@@ -1,0 +1,33 @@
+body{
+  background-color: lightgrey;
+}
+header{
+  background-color: lightgrey;
+}
+#topHeader{
+  background-color: grey;
+}
+#logo{
+  background-color: lightgrey;
+}
+#bottomHeader{
+  background-color: black;
+}
+nav{
+  background-color: grey;
+}
+main{
+  background-color: lightgrey;
+}
+#leftMain{
+  background-color: grey;
+}
+#rightMain{
+  background-color: black;
+}
+.aside{
+  background-color: lightgrey;
+}
+footer{
+  background-color: black;
+}
